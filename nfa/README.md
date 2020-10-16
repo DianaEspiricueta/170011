@@ -26,6 +26,12 @@ La matriz que se utilizara como base o regla es:
 |q10|	q7,q11|	E|	E|	E|
 |q11|	E|	E|	E|	A|
 
+Basada en
+
+
+![alt text](https://github.com/upslp-teoriacomputacional/170011/blob/master/nfa/nfa.JPG)
+
+
 **NFA**
 Se utiliza para poder utilizar expresiones regulares dentro del código:
 Este se utilizo para poder hacer uso de las expresiones regulares.
