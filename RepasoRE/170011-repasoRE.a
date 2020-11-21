@@ -1,3 +1,10 @@
+# Alumno: Jessica Elizabeth Bueno Sánchez
+# Matricula: 170011
+# Institución: Universidad Politécnica de San Luis Potosí
+# Carrera: Ingeniería en Tecnologías de la Información
+# Materia: Teoría Computacional
+# Docente: Juan Carlos González Ibarra
+
 #
 BEGIN{
 units="zero one two three four five six seven eight nine"
