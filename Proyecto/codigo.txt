@@ -1,0 +1,11 @@
+//ejemplo de como es 
+//que el codigo se puede
+//utilizar para evaluarlo
+/*float 3var ;;*/
+int var1 = 13.2 ;
+int var_dos = 13 ;
+for i = 0 ; i := var1 ; i ++ {
+do {
+i += i ;
+} while ( i <= var2 ) ;
+}
